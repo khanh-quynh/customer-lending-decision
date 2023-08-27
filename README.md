@@ -1,4 +1,4 @@
-# Customer Lending Decision
+# Customer Loan Decision Engine
 ## Summer Internship 2023
 ## Quynh K Nguyen, June-July 2023
 
